@@ -1,0 +1,8 @@
+Hello out there.
+I will add three numbers for you.
+Enter three whole numbers on a line:
+1
+2
+3
+The sum of those three numbers is: 
+6
