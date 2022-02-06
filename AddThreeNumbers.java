@@ -1,15 +1,10 @@
 import java.util.Scanner;
 /**
-* Will add three ints for user.
-* 1) Define vars
-* 2) Message to user
-* 3) Create a Scanner object
-* 4) Use Scanner object to get three integers from the user
-* 5) Output message and result
-*
+
+* class AddThreeNumbers will add three numbers.
 * @author Cesar Melero, melero.jr.231@gmail.com
-* @version a version number or a date (ex. v1.0)
-* @since last date of update (2022-2-4)
+* @version (v1.0)
+* @since 2022-2-4
 */
 public class AddThreeNumbers
 {
